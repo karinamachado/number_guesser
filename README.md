@@ -8,8 +8,8 @@ a game between the user and the computer, the goal is to try to guess the secret
 the player who comes closest to the number wins the game.
 
 
-Follow bellow the image of the game.
+Follow bellow the video of the game.
 
-<!-- ![Number Guesser](game.png) -->
 
-![Number Guesser](game_number_guesses.mov)
+
+![Number Guesser](https://media.giphy.com/media/gg3WPjU20MOxOzOpGu/giphy.gif)
